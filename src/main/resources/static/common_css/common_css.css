@@ -1,0 +1,4 @@
+.custom-select{
+    /*根据内容规定长度：*/
+    display: inline-flex;
+}
